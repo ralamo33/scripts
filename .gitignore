@@ -1,3 +1,7 @@
+# Mnaully hidden
+.env
+service-account.json
+
 # Python-generated files
 __pycache__/
 *.py[oc]
